@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Why Small Language Models Are Quietly Taking Over Your Phone",
+    "description": "On-device AI is getting faster and more private. Here is how compact models are changing everyday apps without needing the cloud.",
+    "category": "Technology",
+    "author": "Ananya Raman",
+    "date": "2026-09-28",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=70"
+  },
+  {
+    "id": 2,
+    "title": "React State Explained: Thinking in Snapshots, Not Variables",
+    "description": "useState trips up many beginners. Learn how React treats each render as a snapshot and why that makes your components predictable.",
+    "category": "Programming",
+    "author": "Karthik Subramanian",
+    "date": "2026-09-22",
+    "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=800&q=70"
+  },
+  {
+    "id": 3,
+    "title": "Typography That Breathes: Choosing Type for Long-Form Reading",
+    "description": "Line length, leading and contrast decide whether people finish your article. A practical guide to setting comfortable body text.",
+    "category": "Web Design",
+    "author": "Meera Iyer",
+    "date": "2026-09-18",
+    "image": "https://images.unsplash.com/photo-1561070791-2526d30994b8?auto=format&fit=crop&w=800&q=70"
+  },
+  {
+    "id": 4,
+    "title": "The Slow Morning: Rebuilding a Routine Without Your Phone",
+    "description": "One month, no screens before breakfast. What changed in focus, mood and energy, and the small habits that made it stick.",
+    "category": "Lifestyle",
+    "author": "Rohan Mehta",
+    "date": "2026-09-12",
+    "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=800&q=70"
+  },
+  {
+    "id": 5,
+    "title": "JavaScript Array Methods You Should Master Before Any Framework",
+    "description": "map, filter and reduce power most real-world UI code. Practice them with short, clear examples and common mistakes to avoid.",
+    "category": "Programming",
+    "author": "Divya Nair",
+    "date": "2026-09-05",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=70"
+  },
+  {
+    "id": 6,
+    "title": "CSS Grid vs Flexbox: A Simple Rule for Choosing Between Them",
+    "description": "Stop guessing which layout tool to use. One question about rows, columns and content flow will point you to the right choice.",
+    "category": "Web Design",
+    "author": "Arjun Pillai",
+    "date": "2026-08-30",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=800&q=70"
+  },
+  {
+    "id": 7,
+    "title": "Passwords Are Fading: What Passkeys Mean for Everyday Users",
+    "description": "Big platforms are moving to passkeys. Here is how they work, why they resist phishing, and how to start using them today.",
+    "category": "Technology",
+    "author": "Sneha Kulkarni",
+    "date": "2026-08-24",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=70"
+  },
+  {
+    "id": 8,
+    "title": "Eating Well on a Student Budget Without Living on Instant Noodles",
+    "description": "Simple weekly planning, smart grocery swaps and five filling meals that cost less than a canteen lunch.",
+    "category": "Lifestyle",
+    "author": "Farhan Sheikh",
+    "date": "2026-08-17",
+    "image": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=800&q=70"
+  },
+  {
+    "id": 9,
+    "title": "Building Your First Portfolio: A React Project Roadmap for Students",
+    "description": "Which projects to build, how to show your thinking, and how to present your React work clearly to recruiters and professors.",
+    "category": "Programming",
+    "author": "Lakshmi Venkat",
+    "date": "2026-08-09",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=800&q=70"
+  },
+  {
+    "id": 10,
+    "title": "Writing Daily for 30 Days: What a Simple Notebook Habit Taught Me",
+    "description": "Ten minutes of journaling each morning improved my clarity and creativity. A gentle guide to starting your own writing practice.",
+    "category": "Lifestyle",
+    "author": "Neha Joshi",
+    "date": "2026-08-02",
+    "image": "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?auto=format&fit=crop&w=800&q=70"
+  }
+]
